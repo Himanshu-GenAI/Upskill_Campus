@@ -5,7 +5,7 @@ This repository contains:
 - Final project source code
 - Final internship report (PDF & DOCX)
 - Complete Password Manager desktop application developed using Python
-- 
+  
 # 🔐 Password Manager
 
 A secure desktop password manager built with Python, Tkinter, SQLite, and Fernet encryption.
